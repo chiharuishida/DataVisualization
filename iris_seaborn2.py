@@ -48,7 +48,7 @@ sns.lineplot(data=iris.drop(['class'], axis=1))
 # it the column we want to plot and it will calculate the occurrences itself. 
 # =============================================================================
 
-#Bar chart
+#Bar chart.Also nsteado f countplot, you can also use, e.g. distplot, or just plt.hist
 sns.countplot(iris['sepal_width'])
 
 #heatmap

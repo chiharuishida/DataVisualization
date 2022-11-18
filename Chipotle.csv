@@ -1,0 +1,358 @@
+﻿top1,wordofmouth,socialmedia,walkby,billboard,patronage,importantconvenience,importantvariety,importantprice,importanthealthy,importanttaste,importantambience,chipotleconvenient,chipotlevariety,chipotleprice,chipotlehealthy,chipotletaste,chipotleambience,gender,age,income,plan,spending,buylocal,healthyimportanttome
+Applebees,Yes,No,No,No,0,4,4,5,4,5,5,5,5,4,5,5,5,Male,51,23649,2,2,5,2
+Arbys,Yes,No,No,No,0,4,4,4,4,4,3,4,4,4,5,5,5,Male,51,14502,2,2,2,2
+Arbys,No,No,Yes,No,0,3,4,4,4,5,4,3,5,4,4,5,5,Female,51,25063,3,4,2,2
+Arbys,No,No,No,No,0,4,4,5,5,5,4,4,5,4,5,5,4,Female,34,39134,1,4,1,1
+Burger King,No,Yes,No,No,0,4,5,5,5,5,5,3,4,4,5,3,3,Male,45,30362,2,2,2,2
+Chick-Fil-A,Yes,No,No,No,0,5,4,5,5,5,5,3,3,3,3,3,3,Male,46,48366,3,2,2,2
+Chick-Fil-A,No,No,Yes,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,34,15315,3,4,1,1
+Chick-Fil-A,No,No,Yes,No,0,4,4,4,4,4,4,3,3,3,3,3,3,Male,49,28872,2,2,2,2
+Chick-Fil-A,No,No,Yes,No,1,5,3,5,2,5,4,3,2,4,4,4,4,Male,35,24330,3,2,,3
+Chick-Fil-A,Yes,No,No,No,0,5,4,4,4,5,4,5,5,4,4,4,4,Male,21,58742,2,4,2,2
+Chick-Fil-A,Yes,No,No,No,0,5,5,5,5,5,3,3,5,5,5,5,4,Male,31,40076,2,2,2,2
+Chick-Fil-A,No,Yes,No,No,0,,,,,,,,,,,,,,,,,,,
+Chick-Fil-A,Yes,No,No,No,1,4,4,5,5,5,4,3,3,1,3,3,3,Male,39,15629,2,2,1,1
+Chick-Fil-A,Yes,No,No,No,0,4,4,5,5,5,4,4,5,5,5,5,4,Female,33,72657,1,2,1,1
+Chick-Fil-A,No,No,No,No,2,,,,,,,,,,,,,Male,56,27994,2,2,2,2
+Chick-Fil-A,No,No,Yes,No,0,5,5,5,4,4,3,3,3,2,,4,3,Male,64,59518,2,2,2,3
+Chick-Fil-A,Yes,No,No,No,0,4,4,4,5,5,5,3,3,3,3,3,3,Female,34,17145,2,3,1,1
+Chick-Fil-A,No,No,Yes,No,0,4,5,5,5,5,4,4,5,5,5,5,3,Male,54,44372,1,4,1,1
+Chick-Fil-A,Yes,No,No,No,0,,,,,,,,,,,,,,,,,,,
+Chick-Fil-A,Yes,No,No,No,0,5,5,5,5,5,5,5,5,2,5,5,5,Male,35,53772,3,2,2,2
+Chick-Fil-A,Yes,No,No,No,0,5,5,5,5,5,5,3,3,3,4,4,3,Male,45,16333,2,2,2,2
+Chick-Fil-A,Yes,No,No,No,0,5,4,4,5,5,4,5,5,4,5,5,3,Male,48,23232,2,3,2,1
+Chick-Fil-A,No,No,No,No,2,,,,,,,,,,,,,Male,32,14108,2,1,1,1
+Chick-Fil-A,No,No,Yes,No,0,5,4,5,5,5,5,4,3,4,4,4,3,Female,33,13572,1,1,2,2
+Chick-Fil-A,Yes,No,No,No,0,5,5,5,5,5,4,4,3,3,4,4,4,Female,32,47226,2,4,2,2
+Chick-Fil-A,Yes,No,No,No,3,5,5,5,5,5,5,4,4,4,4,4,4,Male,46,36060,1,4,2,2
+Chick-Fil-A,No,No,Yes,No,0,5,4,5,4,,4,4,3,4,4,5,4,Male,52,85353,1,3,2,2
+Chick-Fil-A,Yes,No,No,No,0,5,4,4,3,4,2,5,3,4,4,4,3,Male,69,83778,3,4,2,2
+Chick-Fil-A,Yes,No,No,No,0,4,4,4,4,5,4,4,3,3,4,4,3,Male,32,86649,2,3,3,3
+Chick-Fil-A,No,Yes,No,No,4,4,5,4,5,4,3,3,4,2,4,4,3,Male,50,26040,1,2,1,1
+Chick-Fil-A,No,No,Yes,No,0,4,5,5,5,5,4,4,4,3,4,4,3,Male,49,49774,3,2,2,1
+Chick-Fil-A,Yes,No,No,No,0,4,4,5,5,5,4,4,4,4,5,5,4,Male,48,40464,2,3,1,1
+Chick-Fil-A,Yes,No,No,No,0,4,5,5,4,5,5,3,4,4,5,3,2,Male,35,48537,3,4,2,2
+Chick-Fil-A,No,No,Yes,No,0,5,5,4,5,5,5,3,4,3,5,4,3,Male,56,67113,2,4,2,2
+Chick-Fil-A,No,No,Yes,No,0,5,5,5,5,5,4,3,3,3,4,4,4,,,,,,,
+Chick-Fil-A,No,No,Yes,No,0,5,5,5,5,5,5,3,5,5,5,5,3,Female,53,50400,3,2,1,1
+Chick-Fil-A,Yes,No,No,No,0,4,4,5,5,5,4,5,5,3,4,5,3,Male,36,84261,2,2,2,1
+Chick-Fil-A,Yes,No,No,No,2,4,3,5,4,5,4,3,3,2,4,3,3,Male,52,33460,2,4,2,1
+Chipotle,Yes,No,No,No,0,5,4,2,2,5,4,4,3,2,4,,4,Male,49,71493,3,4,2,3
+Chipotle,No,No,Yes,No,0,4,3,5,4,5,4,4,3,6,5,3,3,Male,49,38988,1,4,2,2
+Chipotle,Yes,No,No,No,0,4,4,4,5,5,5,3,3,3,3,3,3,Female,34,17145,2,3,1,1
+Chipotle,Yes,No,No,No,0,5,4,5,5,5,5,5,3,5,5,4,4,Male,52,32170,3,3,2,2
+Chipotle,No,No,Yes,No,0,5,4,5,5,5,5,2,4,3,5,5,4,Male,20,40048,2,3,1,2
+Chipotle,Yes,No,No,No,0,4,4,5,4,5,4,4,4,3,5,5,3,Female,59,75777,2,3,2,2
+Chipotle,No,No,No,No,1,5,4,5,5,5,4,3,3,4,5,5,4,Male,24,58416,1,4,2,1
+Chipotle,Yes,No,No,No,0,5,5,5,5,5,5,3,3,3,4,3,4,Male,37,41052,2,2,2,2
+Chipotle,No,No,Yes,No,0,5,4,5,5,5,4,4,4,4,5,5,5,Male,33,86277,2,3,2,2
+Chipotle,Yes,No,No,No,3,5,5,5,4,5,4,3,3,4,5,3,3,Male,38,39680,1,2,2,2
+Chipotle,No,No,Yes,No,0,5,3,5,5,5,5,5,5,5,5,5,5,Male,45,36810,3,2,2,1
+Chipotle,Yes,No,No,No,0,5,4,5,3,5,4,3,3,3,6,4,3,Male,21,25375,2,3,2,3
+Chipotle,No,No,Yes,No,0,5,2,5,5,5,1,5,2,1,5,5,3,Male,30,41362,1,4,4,1
+Chipotle,Yes,No,No,No,0,5,4,5,5,5,4,3,3,2,3,4,4,Male,25,17758,2,1,1,1
+Chipotle,No,No,Yes,No,4,5,4,5,3,5,4,5,4,5,4,5,5,Male,19,18248,3,4,2,2
+Chipotle,Yes,No,No,No,0,5,5,5,5,5,5,4,4,3,5,3,3,Male,44,30408,2,2,2,1
+Chipotle,No,No,Yes,No,0,4,4,4,5,5,4,3,2,3,4,3,3,Male,45,88962,1,3,2,1
+Chipotle,Yes,No,No,No,0,4,4,4,4,5,4,5,4,3,4,5,4,Male,33,27529,2,4,1,1
+Chipotle,No,No,Yes,No,0,4,4,3,5,5,4,3,2,2,3,3,3,Male,37,83082,1,4,1,1
+Chipotle,No,No,Yes,No,0,5,5,5,5,5,4,5,3,2,4,5,5,Male,29,26778,1,4,2,1
+Chipotle,No,No,Yes,No,0,5,4,4,4,4,4,4,4,4,4,4,4,Male,51,41883,2,2,2,2
+Chipotle,Yes,No,No,No,0,4,5,4,5,5,4,2,4,3,3,4,3,Male,18,26939,2,3,2,2
+Chipotle,Yes,No,No,No,3,4,4,4,2,5,4,4,2,3,5,3,2,Male,33,36126,3,2,1,2
+Chipotle,Yes,No,No,No,0,4,4,5,5,5,4,3,5,3,5,5,3,Male,66,58516,1,4,2,2
+Chipotle,No,No,Yes,No,0,4,4,4,4,5,5,4,3,2,4,4,4,Male,54,26830,3,2,2,2
+Chipotle,No,No,Yes,No,0,5,3,5,5,5,5,5,5,5,5,5,5,Male,45,36810,3,2,2,1
+Chipotle,Yes,No,No,No,1,5,4,5,4,5,4,3,3,2,5,5,3,Female,32,24334,2,3,5,3
+Chipotle,Yes,No,No,No,0,5,4,4,5,5,4,5,5,4,5,5,3,Male,48,23232,2,3,2,1
+Chipotle,Yes,No,No,No,0,5,5,5,5,5,4,4,3,3,4,4,4,Female,32,47226,2,4,2,2
+Chipotle,Yes,No,No,No,0,5,4,5,4,5,4,5,3,2,4,3,3,Male,38,50294,1,4,2,1
+Chipotle,No,No,Yes,No,0,5,5,4,5,5,5,3,4,3,5,4,3,Male,56,67113,2,4,2,2
+Chipotle,No,No,No,No,0,4,4,5,5,5,4,3,2,4,5,4,3,Female,51,58698,1,3,2,2
+Chipotle,Yes,No,No,No,0,4,4,5,5,5,4,3,3,4,5,4,2,Male,31,47694,1,4,2,1
+Chipotle,Yes,Yes,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,22,19033,2,3,3,1
+Chipotle,Yes,No,No,No,0,5,3,3,3,5,3,4,3,3,3,4,2,Male,28,59410,1,3,1,2
+Chipotle,No,No,No,No,0,4,4,5,5,5,4,4,5,4,5,5,4,Female,34,39134,1,4,1,1
+Chipotle,No,No,Yes,No,0,3,4,4,4,5,3,3,4,2,4,4,3,Male,45,89076,2,4,1,2
+Chipotle,Yes,No,No,No,0,4,4,2,4,5,4,3,4,4,5,4,3,Male,33,71247,2,4,1,1
+Chipotle,Yes,No,No,No,0,5,5,5,5,5,4,3,4,3,5,5,3,,,,,,,
+Chipotle,Yes,No,No,No,0,4,5,5,5,5,4,3,5,4,,5,4,Female,29,26017,1,2,2,1
+Chipotle,Yes,No,No,No,0,4,3,4,5,5,4,4,3,4,5,5,4,Male,24,10157,2,2,2,1
+Chipotle,Yes,No,No,No,0,5,4,5,5,5,5,5,4,3,5,4,5,Male,34,27244,1,4,2,2
+El Pollo Loco,Yes,No,No,No,0,5,4,5,5,5,5,5,3,5,5,4,4,Male,52,32170,3,3,2,2
+El Pollo Loco,No,Yes,No,No,0,5,4,4,4,4,3,1,4,3,4,4,3,Male,34,28436,2,3,2,2
+El Pollo Loco,No,No,No,No,3,,,,,,,,,,,,,Male,19,22538,3,3,2,1
+El Pollo Loco,Yes,No,No,No,0,5,4,4,4,4,4,4,4,3,3,4,3,Female,67,32272,2,2,1,2
+El Pollo Loco,No,No,Yes,No,0,4,4,4,4,5,4,4,3,4,3,4,3,Male,54,86769,2,4,2,2
+El Pollo Loco,Yes,No,No,No,0,4,4,5,5,5,4,3,3,4,5,4,2,Male,31,47694,1,4,2,1
+El Pollo Loco,Yes,No,No,No,0,2,5,5,5,5,4,5,5,3,5,5,4,Male,34,61260,2,2,3,1
+El Pollo Loco,Yes,No,No,No,0,5,3,3,3,5,3,4,3,3,3,4,2,Male,28,59410,1,3,1,2
+El Pollo Loco,No,No,Yes,No,4,5,5,5,5,5,4,2,4,3,4,5,4,Male,22,46774,2,1,2,2
+El Pollo Loco,Yes,No,No,No,0,5,5,5,5,5,5,3,4,3,4,5,3,Male,33,20022,1,2,2,2
+El Pollo Loco,No,Yes,No,No,2,4,3,3,4,5,4,2,3,3,4,3,3,Male,33,77253,3,4,2,2
+El Pollo Loco,Yes,No,No,No,0,5,5,5,5,5,5,3,4,3,4,4,4,Male,29,35972,1,4,1,1
+El Pollo Loco,Yes,No,No,No,0,4,3,5,5,5,4,3,3,2,5,4,4,Male,33,35714,1,3,2,1
+El Pollo Loco,Yes,No,No,No,0,5,5,5,5,5,4,5,5,3,5,5,4,Male,40,31310,1,4,2,1
+El Pollo Loco,Yes,No,No,No,0,5,4,5,5,5,4,4,3,4,4,4,3,Male,38,24582,2,3,2,2
+El Pollo Loco,Yes,No,No,No,1,4,4,5,4,5,3,4,4,2,5,5,3,Female,45,11601,2,3,2,2
+El Pollo Loco,No,No,Yes,No,0,5,5,5,5,5,4,4,5,4,5,5,4,Male,33,57942,3,2,2,2
+El Pollo Loco,No,No,Yes,No,0,3,3,5,3,5,5,3,2,4,5,4,2,Male,33,87381,2,3,2,3
+El Pollo Loco,No,No,Yes,No,0,5,4,5,5,5,5,2,4,3,5,5,4,Male,20,40048,2,3,1,2
+El Pollo Loco,No,No,Yes,No,0,4,5,5,4,5,4,4,2,5,5,2,3,Female,49,40104,2,2,1,2
+El Pollo Loco,Yes,No,No,No,0,4,3,3,4,5,5,4,3,3,5,3,2,Male,55,52712,3,4,1,2
+El Pollo Loco,Yes,No,No,No,0,5,5,5,4,5,4,5,3,5,5,5,5,Female,45,23515,2,3,3,3
+El Pollo Loco,Yes,No,No,No,0,4,4,2,4,5,4,3,4,4,5,4,3,Male,33,71247,2,4,1,1
+El Pollo Loco,No,No,Yes,No,0,4,4,5,5,5,4,3,2,4,2,4,2,Female,69,25734,2,4,2,2
+El Pollo Loco,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Female,18,66888,1,1,1,1
+El Pollo Loco,Yes,No,No,No,0,4,5,5,5,5,4,3,5,4,,5,4,Female,29,26017,1,2,2,1
+El Pollo Loco,Yes,No,No,No,0,5,5,5,5,5,5,2,5,4,5,5,3,Male,39,21978,2,4,2,1
+El Pollo Loco,No,No,No,Yes,0,5,5,5,5,5,5,4,4,5,5,4,5,Male,33,18631,1,2,1,1
+El Pollo Loco,No,No,Yes,No,0,4,4,5,5,5,5,3,3,3,3,3,3,,,,,,,
+El Pollo Loco,No,No,Yes,No,0,4,4,5,5,5,5,4,5,5,5,5,5,Male,44,38756,1,3,1,1
+El Pollo Loco,No,No,No,No,3,,,,,,,,,,,,,Male,58,21101,1,4,3,3
+El Pollo Loco,No,No,No,No,4,,,,,,,,,,,,,Male,21,17330,1,2,1,2
+El Pollo Loco,Yes,No,No,No,3,4,4,4,4,4,4,4,5,5,5,5,3,Male,51,31904,1,4,2,1
+El Pollo Loco,Yes,No,No,No,0,4,4,5,3,5,4,3,2,2,5,4,3,Male,33,25853,2,1,2,3
+El Pollo Loco,Yes,No,Yes,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,50,35736,2,4,2,2
+El Pollo Loco,No,No,Yes,No,0,5,5,5,4,5,4,5,3,3,3,5,5,Female,33,25752,2,2,2,2
+El Pollo Loco,No,Yes,No,No,0,4,4,5,5,5,4,3,5,5,5,5,5,Male,73,24393,3,4,2,1
+El Pollo Loco,No,Yes,No,No,0,,,,,,,,,,,,,,,,,,,
+El Pollo Loco,Yes,No,No,No,3,5,5,5,4,5,4,3,3,4,5,3,3,Male,38,39680,1,2,2,2
+El Pollo Loco,Yes,No,No,No,0,4,4,4,3,5,4,3,3,3,5,5,4,Female,40,81393,2,4,2,1
+El Pollo Loco,Yes,No,No,No,0,4,4,5,5,5,4,4,5,5,5,5,4,Female,33,72657,1,2,1,1
+El Pollo Loco,No,No,No,No,2,,,,,,,,,,,,,Male,56,27994,2,2,2,2
+El Pollo Loco,Yes,No,No,No,1,5,4,5,5,5,4,3,3,3,4,4,4,Male,22,11102,2,2,2,2
+El Pollo Loco,Yes,No,No,No,0,4,5,5,4,5,5,3,4,4,5,3,2,Male,35,48537,3,4,2,2
+El Pollo Loco,No,No,Yes,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,34,15315,3,4,1,1
+El Pollo Loco,No,No,Yes,No,0,5,5,5,5,5,5,3,5,5,5,5,3,Female,53,50400,3,2,1,1
+El Pollo Loco,Yes,No,No,No,2,4,3,5,4,5,4,3,3,2,4,3,3,Male,52,33460,2,4,2,1
+El Pollo Loco,Yes,No,No,No,0,4,4,4,5,5,4,4,5,4,5,5,5,Male,33,44358,2,2,2,2
+El Pollo Loco,Yes,No,No,No,0,5,4,5,5,5,4,4,3,4,4,4,3,Male,38,24582,2,3,2,2
+El Pollo Loco,Yes,No,No,No,1,4,4,5,4,5,3,4,4,2,5,5,3,Female,45,11601,2,3,2,2
+El Pollo Loco,No,No,Yes,No,0,5,5,5,5,5,4,4,5,4,5,5,4,Male,33,57942,3,2,2,2
+El Pollo Loco,No,No,Yes,No,0,4,4,5,5,4,4,4,4,3,5,5,5,Male,29,24323,1,4,2,1
+El Pollo Loco,No,No,No,No,0,3,4,5,4,5,5,6,3,3,4,4,5,Male,55,57404,2,4,2,2
+El Pollo Loco,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,29,15332,1,1,1,1
+El Pollo Loco,Yes,No,No,No,1,5,5,5,5,5,4,5,5,3,3,5,4,Male,56,25152,5,5,5,5
+El Pollo Loco,No,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,19,63255,1,1,1,1
+El Pollo Loco,No,Yes,Yes,No,0,5,3,5,4,5,4,3,3,2,5,5,2,Female,55,67983,2,4,2,1
+Eppies,No,No,Yes,No,0,5,5,5,5,5,5,5,5,4,4,5,3,Male,49,89022,1,4,1,1
+In-n-out,No,No,Yes,No,0,5,4,5,5,5,5,3,4,5,5,5,4,Male,52,20942,3,3,2,1
+In-n-out,Yes,No,No,No,0,4,4,4,3,5,4,3,3,3,5,5,4,Female,40,81393,2,4,2,1
+In-n-out,Yes,No,No,No,2,4,4,5,4,5,4,5,3,4,4,4,4,Female,69,34164,3,3,2,3
+In-n-out,No,No,Yes,No,0,4,4,5,5,5,4,4,4,2,4,4,3,Male,54,19970,2,3,2,1
+In-n-out,Yes,No,No,No,3,5,3,4,5,5,4,3,3,4,5,5,3,Male,58,51927,2,4,1,1
+In-n-out,No,No,Yes,No,0,4,4,4,3,5,4,3,3,4,4,4,3,Female,50,42254,3,2,4,3
+In-n-out,No,No,Yes,No,0,5,5,5,5,5,5,5,4,5,5,5,5,Male,29,43869,1,3,2,1
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,33,27951,1,1,1,1
+In-n-out,Yes,No,No,No,0,5,3,4,5,5,4,5,3,1,5,4,4,Male,20,19401,1,3,2,1
+In-n-out,Yes,Yes,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,22,19033,2,3,3,1
+In-n-out,No,No,No,No,0,5,4,5,5,5,4,4,4,4,4,4,4,Male,56,44952,2,3,2,1
+In-n-out,No,No,Yes,No,0,4,4,5,5,5,5,3,3,3,3,3,3,Male,49,54750,1,4,2,1
+In-n-out,No,No,Yes,No,0,5,,,5,,5,,,1,,5,,Female,33,42186,1,,,
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,33,23146,1,4,1,2
+In-n-out,No,No,Yes,No,0,5,5,4,5,5,5,5,5,5,5,5,5,Male,33,28117,2,4,2,1
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,3,4,4,5,5,5,4,Male,39,19460,2,3,2,2
+In-n-out,Yes,No,No,No,4,4,3,4,3,5,3,4,3,3,3,3,3,Male,58,31482,2,4,2,4
+In-n-out,Yes,No,Yes,No,0,4,4,4,4,5,4,4,5,5,5,5,4,Male,35,20924,1,4,2,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,29,15332,1,1,1,1
+In-n-out,Yes,No,No,No,0,4,3,4,5,5,4,4,3,4,5,5,4,Male,24,10157,2,2,2,1
+In-n-out,Yes,No,No,No,0,4,4,5,4,5,4,4,4,3,5,5,3,Female,59,75777,2,3,2,2
+In-n-out,No,No,Yes,No,0,5,5,5,3,5,5,5,5,3,5,5,5,Male,54,58036,1,4,2,1
+In-n-out,No,No,Yes,No,0,4,4,4,5,5,4,4,4,2,5,5,4,Female,33,80682,5,3,2,1
+In-n-out,No,Yes,No,No,0,4,4,4,4,5,4,3,4,3,5,5,5,Male,60,74211,3,3,2,2
+In-n-out,Yes,No,No,No,4,4,5,5,5,5,4,3,5,5,5,5,3,Male,40,56304,1,3,1,1
+In-n-out,Yes,No,No,No,0,4,4,4,5,5,,4,5,4,5,5,4,Male,19,18342,1,3,2,1
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,4,5,5,4,5,5,4,Male,37,50830,1,2,2,1
+In-n-out,Yes,No,No,No,0,5,5,5,4,5,5,3,3,3,3,3,3,Male,47,23266,2,3,2,2
+In-n-out,Yes,No,No,No,0,5,,5,,5,5,4,3,5,3,5,5,Female,77,37546,2,4,2,1
+In-n-out,No,No,No,No,1,,,,,,,,,,,,,Male,21,13752,2,2,2,2
+In-n-out,Yes,No,No,No,2,3,4,3,5,5,4,4,4,4,4,5,4,Male,34,13921,2,3,2,2
+In-n-out,Yes,No,No,No,2,4,4,4,4,5,4,5,5,5,5,5,5,Male,45,53888,2,2,3,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,4,,4,5,4,4,Male,55,50422,2,4,2,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,3,4,4,5,4,3,Male,45,45038,3,2,1,2
+In-n-out,Yes,No,No,No,4,4,4,5,4,5,4,5,5,5,5,5,5,Male,31,39398,3,2,1,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,3,3,3,4,3,4,Male,37,41052,2,2,2,2
+In-n-out,No,No,Yes,No,0,5,5,5,4,4,3,3,3,2,,4,3,Male,64,59518,2,2,2,3
+In-n-out,Yes,No,No,No,0,4,4,4,4,4,3,4,4,4,5,5,5,Male,51,14502,2,2,2,2
+In-n-out,Yes,No,No,No,2,4,4,5,4,5,4,5,3,4,4,4,4,Female,69,34164,3,3,2,3
+In-n-out,Yes,No,No,No,0,4,4,5,4,5,5,5,5,4,5,5,5,Male,51,23649,2,2,5,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,5,5,2,5,5,5,Male,35,53772,3,2,2,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,3,3,3,4,4,3,Male,45,16333,2,2,2,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,2,3,3,4,4,3,Male,35,69465,1,2,2,2
+In-n-out,Yes,No,No,No,3,5,5,5,5,5,5,4,4,4,4,4,4,Male,46,36060,1,4,2,2
+In-n-out,Yes,No,No,No,3,5,3,4,5,5,4,3,3,4,5,5,3,Male,58,51927,2,4,1,1
+In-n-out,Yes,No,No,No,0,5,4,5,3,5,4,3,3,3,6,4,3,Male,21,25375,2,3,2,3
+In-n-out,No,No,Yes,No,0,5,5,5,5,5,5,5,5,4,4,5,3,Male,49,89022,1,4,1,1
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,33,27951,1,1,1,1
+In-n-out,No,No,Yes,No,0,3,3,4,4,4,4,2,3,3,3,4,3,Female,69,51750,2,4,2,2
+In-n-out,No,Yes,No,No,0,5,4,4,4,4,3,1,4,3,4,4,3,Male,34,28436,2,3,2,2
+In-n-out,Yes,No,No,No,0,5,3,4,5,5,4,5,3,1,5,4,4,Male,20,19401,1,3,2,1
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,4,4,4,4,5,5,5,Male,52,42532,1,3,2,1
+In-n-out,Yes,No,No,No,0,5,4,5,5,5,4,3,3,2,3,4,4,Male,25,17758,2,1,1,1
+In-n-out,No,No,Yes,No,4,5,5,5,5,5,4,2,4,3,4,5,4,Male,22,46774,2,1,2,2
+In-n-out,No,No,No,No,0,5,4,5,5,5,4,4,4,4,4,4,4,Male,56,44952,2,3,2,1
+In-n-out,Yes,No,No,No,0,5,4,5,4,5,4,5,4,3,4,4,3,Male,55,39912,2,4,2,2
+In-n-out,No,Yes,No,No,2,4,3,3,4,5,4,2,3,3,4,3,3,Male,33,77253,3,4,2,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,2,2,3,4,5,4,Male,18,18631,1,2,1,2
+In-n-out,No,No,Yes,No,0,3,3,5,3,5,5,3,2,4,5,4,2,Male,33,87381,2,3,2,3
+In-n-out,Yes,No,No,No,0,4,4,5,5,5,4,5,5,3,4,5,3,Male,36,84261,2,2,2,1
+In-n-out,No,Yes,No,No,0,4,5,5,5,5,5,3,4,4,5,3,3,Male,45,30362,2,2,2,2
+In-n-out,Yes,No,No,No,0,4,3,3,4,5,5,4,3,3,5,3,2,Male,55,52712,3,4,1,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,4,5,4,5,5,5,3,Female,33,28285,3,2,2,3
+In-n-out,No,Yes,No,No,2,4,4,4,4,5,4,1,4,3,5,5,3,Male,43,76311,2,4,2,2
+In-n-out,Yes,No,No,No,0,5,5,5,5,5,5,2,5,4,5,5,3,Male,39,21978,2,4,2,1
+In-n-out,Yes,No,No,No,0,4,4,5,5,5,4,3,3,3,4,4,3,Male,45,11342,2,2,2,2
+In-n-out,No,No,Yes,No,0,4,4,5,5,5,5,3,3,3,3,3,3,,,,,,,
+In-n-out,Yes,No,No,No,1,3,5,5,4,5,4,2,3,3,3,3,2,Male,39,46736,1,4,1,1
+In-n-out,No,No,Yes,No,0,5,5,4,5,5,5,5,5,5,5,5,5,Male,33,28117,2,4,2,1
+In-n-out,No,No,Yes,No,0,4,4,3,5,5,4,3,2,2,3,3,3,Male,37,83082,1,4,1,1
+In-n-out,No,No,Yes,No,0,5,5,5,5,5,4,5,3,2,4,5,5,Male,29,26778,1,4,2,1
+In-n-out,No,No,Yes,No,0,5,5,5,3,5,5,5,5,3,5,5,5,Male,54,58036,1,4,2,1
+In-n-out,Yes,Yes,Yes,No,0,5,5,5,5,5,5,5,4,5,5,5,4,Male,29,14472,1,3,1,2
+In-n-out,No,No,Yes,No,0,5,5,5,5,5,5,3,3,3,3,3,3,,,,,,,
+In-n-out,No,Yes,No,No,0,4,4,4,4,5,4,3,4,3,5,5,5,Male,60,74211,3,3,2,2
+In-n-out,No,No,Yes,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,48,27646,1,4,1,1
+Jasons Deli,Yes,No,No,No,0,5,5,5,5,5,4,5,4,5,5,5,3,Female,33,28285,3,2,2,3
+Jasons Deli,No,No,Yes,No,0,3,4,4,4,5,3,3,4,2,4,4,3,Male,45,89076,2,4,1,2
+KFC,Yes,No,No,No,0,4,5,5,5,5,5,5,5,5,5,5,5,Male,25,29001,1,2,1,1
+KFC,Yes,No,No,No,0,5,5,5,5,5,4,5,5,2,5,5,5,Female,45,42612,3,3,1,1
+KFC,Yes,No,No,No,1,5,4,5,5,5,4,3,3,3,4,4,4,Male,22,11102,2,2,2,2
+KFC,No,No,Yes,No,0,3,3,4,4,4,4,2,3,3,3,4,3,Female,69,51750,2,4,2,2
+KFC,No,No,No,No,0,3,4,5,4,5,5,6,3,3,4,4,5,Male,55,57404,2,4,2,2
+KFC,Yes,Yes,Yes,No,0,5,5,5,5,5,5,5,4,5,5,5,4,Male,29,14472,1,3,1,2
+KFC,No,No,Yes,No,0,5,5,5,5,5,5,3,3,2,3,3,3,Female,34,36861,3,2,1,1
+KFC,Yes,No,No,No,0,4,4,4,4,5,4,4,4,4,4,5,4,Male,48,38160,2,3,2,2
+KFC,No,No,No,No,2,,,,,,,,,,,,,Male,22,20510,3,2,1,2
+KFC,No,No,Yes,No,0,5,4,5,4,5,4,3,3,2,4,5,4,Male,50,32828,1,4,2,2
+KFC,Yes,No,No,No,0,5,4,4,4,5,4,5,5,4,4,4,4,Male,21,58742,2,4,2,2
+KFC,Yes,No,No,No,0,5,5,5,5,5,3,3,5,5,5,5,4,Male,31,40076,2,2,2,2
+KFC,No,No,No,No,5,2,,,,,,,,,,,,,,,,,,
+KFC,No,No,Yes,No,0,4,4,5,5,5,4,4,4,2,4,4,3,Male,54,19970,2,3,2,1
+KFC,No,No,Yes,No,0,5,5,5,5,5,5,5,4,5,5,5,5,Male,29,43869,1,3,2,1
+KFC,Yes,No,No,No,0,5,5,5,5,5,4,2,2,3,5,4,3,Male,49,39729,2,3,1,2
+KFC,No,No,Yes,No,0,4,4,4,4,5,4,4,3,4,3,4,3,Male,54,86769,2,4,2,2
+KFC,Yes,No,No,No,0,5,5,5,5,5,5,3,4,3,4,5,3,Male,33,20022,1,2,2,2
+KFC,No,No,No,No,2,,,,,,,,,,,,,Male,20,23930,2,3,3,2
+KFC,No,No,Yes,No,0,4,4,5,4,5,4,3,4,2,4,4,3,Male,31,27458,2,3,2,2
+KFC,Yes,No,No,No,0,5,5,5,4,5,4,5,3,5,5,5,5,Female,45,23515,2,3,3,3
+KFC,No,No,No,Yes,0,5,5,5,5,5,5,4,4,5,5,4,5,Male,33,18631,1,2,1,1
+KFC,Yes,No,No,No,4,4,3,4,3,5,3,4,3,3,3,3,3,Male,58,31482,2,4,2,4
+KFC,No,No,Yes,No,0,5,4,4,4,5,4,4,5,3,4,5,4,Female,45,66648,1,4,1,2
+KFC,Yes,No,No,No,0,4,4,5,5,5,4,4,3,3,5,4,4,Male,21,28482,1,4,1,1
+McDonalds,No,No,Yes,No,0,5,5,4,4,5,4,5,4,5,5,5,5,Female,66,16627,2,2,3,2
+McDonalds,No,No,Yes,No,0,5,4,4,4,4,4,4,3,5,5,5,5,Female,48,16897,2,2,1,2
+McDonalds,No,No,No,No,2,,,,,,,,,,,,,Male,20,23930,2,3,3,2
+McDonalds,Yes,No,No,No,1,5,4,5,4,5,4,3,3,2,5,5,3,Female,32,24334,2,3,5,3
+McDonalds,Yes,Yes,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,32,24397,1,4,2,2
+McDonalds,Yes,No,No,No,1,5,5,5,5,5,4,5,5,3,3,5,4,Male,56,25152,5,5,5,5
+McDonalds,Yes,No,No,No,0,4,3,4,5,5,4,1,3,3,4,5,3,Male,28,35328,1,4,2,1
+McDonalds,Yes,No,No,No,0,4,5,5,5,5,4,4,4,5,5,5,5,Male,24,53880,2,2,2,1
+McDonalds,No,No,Yes,No,0,4,5,5,5,5,4,4,5,5,5,5,3,Male,54,44372,1,4,1,1
+McDonalds,Yes,No,No,No,0,5,5,5,5,5,4,5,5,2,5,5,5,Female,45,42612,3,3,1,1
+McDonalds,No,No,No,No,3,,,,,,,,,,,,,Male,19,22538,3,3,2,1
+McDonalds,Yes,No,No,No,0,5,4,5,5,5,5,3,3,3,3,3,3,Male,46,48366,3,2,2,2
+McDonalds,No,No,Yes,No,0,4,5,5,4,5,4,4,2,5,5,2,3,Female,49,40104,2,2,1,2
+McDonalds,No,No,Yes,No,0,5,,,5,,5,,,1,,5,,Female,33,42186,1,,,
+McDonalds,Yes,No,No,No,0,5,5,5,5,5,4,2,3,4,3,3,3,Male,57,82425,2,4,2,1
+McDonalds,No,No,Yes,No,0,5,5,4,4,5,4,2,5,5,5,5,5,Male,43,42644,1,2,2,2
+McDonalds,No,No,No,No,5,2,,,,,,,,,,,,,,,,,,
+Outback,Yes,No,No,No,0,5,5,5,5,5,5,2,3,3,4,4,3,Male,35,69465,1,2,2,2
+Panera,No,No,No,No,2,4,4,5,5,5,4,3,4,3,4,4,3,Male,49,54651,1,4,2,2
+Panera,Yes,No,No,No,1,4,4,5,5,5,4,5,5,5,5,5,5,Male,36,38296,1,3,2,1
+Panera,Yes,No,No,No,0,5,4,5,4,5,4,5,3,2,4,3,3,Male,38,50294,1,4,2,1
+Panera,No,No,No,No,6,4,4,5,4,5,4,3,4,3,4,4,3,Male,47,62550,1,4,2,2
+Panera,Yes,No,No,No,0,5,5,5,5,5,5,2,2,3,4,5,4,Male,18,18631,1,2,1,2
+Panera,No,No,Yes,No,0,4,4,5,5,4,4,4,4,3,5,5,5,Male,29,24323,1,4,2,1
+Panera,Yes,No,No,No,0,5,5,5,5,5,4,3,4,3,5,5,3,,,,,,,
+Panera,Yes,No,No,No,0,4,4,5,5,5,4,3,3,3,4,4,3,Male,45,11342,2,2,2,2
+Panera,No,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,19,63255,1,1,1,1
+Panera,No,Yes,Yes,No,0,5,3,5,4,5,4,3,3,2,5,5,2,Female,55,67983,2,4,2,1
+Panera,Yes,No,No,No,0,5,4,5,5,5,5,5,4,3,5,4,5,Male,34,27244,1,4,2,2
+Panera,No,No,Yes,No,0,5,5,5,5,5,5,3,3,3,3,3,3,,,,,,,
+Panera,No,No,Yes,No,0,5,5,4,4,5,4,2,5,5,5,5,5,Male,43,42644,1,2,2,2
+Panera,Yes,No,No,No,0,5,5,5,5,5,5,3,3,3,5,3,3,Male,45,51424,3,4,1,1
+Panera,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,19,24587,1,3,2,2
+Panera,Yes,No,No,No,0,5,5,5,4,5,4,2,3,3,5,4,,Male,64,57562,2,2,1,2
+Panera,No,No,Yes,No,0,5,5,5,5,5,5,5,3,3,3,4,5,Male,64,20472,2,2,2,2
+Panera,No,No,Yes,No,0,5,4,5,5,5,5,5,4,4,5,5,5,Male,30,28178,1,2,2,2
+Panera,No,No,Yes,No,0,5,4,4,5,5,3,5,3,3,4,4,4,Female,38,18186,1,3,2,2
+Panera,Yes,No,No,No,0,4,5,5,5,5,5,5,5,5,5,5,5,Male,25,29001,1,2,1,1
+Panera,No,No,No,No,2,,,,,,,,,,,,,Male,32,14108,2,1,1,1
+Panera,Yes,No,No,No,1,4,4,5,5,5,4,5,5,5,5,5,5,Male,36,38296,1,3,2,1
+Panera,No,No,Yes,No,0,5,4,5,5,5,5,4,3,4,4,4,3,Female,33,13572,1,1,2,2
+Panera,No,No,No,No,6,4,4,5,4,5,4,3,4,3,4,4,3,Male,47,62550,1,4,2,2
+Panera,No,No,Yes,No,0,5,2,5,5,5,1,5,2,1,5,5,3,Male,30,41362,1,4,4,1
+Panera,Yes,No,No,No,0,4,4,5,5,5,4,4,4,4,5,5,4,Male,48,40464,2,3,1,1
+Panera,No,No,Yes,No,2,5,4,5,4,5,4,4,4,4,5,5,4,Female,33,37626,3,2,1,2
+Panera,Yes,No,No,No,0,2,5,5,5,5,4,5,5,3,5,5,4,Male,34,61260,2,2,3,1
+Panera,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Female,23,20712,1,3,1,1
+Panera,No,No,Yes,No,0,5,4,4,4,4,4,4,3,5,5,5,5,Female,48,16897,2,2,1,2
+Panera,No,No,Yes,No,0,4,4,5,5,5,5,3,3,3,3,3,3,Male,49,54750,1,4,2,1
+Panera,No,No,Yes,Yes,0,5,4,5,4,4,4,5,5,5,5,5,5,Female,30,24737,3,2,2,2
+Panera,No,No,Yes,No,0,4,4,5,5,5,4,3,2,4,2,4,2,Female,69,25734,2,4,2,2
+Panera,No,No,Yes,No,4,5,4,5,3,5,4,5,4,5,4,5,5,Male,19,18248,3,4,2,2
+Panera,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Female,18,66888,1,1,1,1
+Panera,No,No,Yes,No,0,4,4,5,5,5,5,4,5,5,5,5,5,Male,44,38756,1,3,1,1
+Panera,No,No,No,No,3,,,,,,,,,,,,,Male,58,21101,1,4,3,3
+Panera,Yes,No,Yes,No,0,4,4,4,4,5,4,4,5,5,5,5,4,Male,35,20924,1,4,2,2
+Panera,Yes,No,No,No,0,5,5,5,5,5,4,4,4,4,5,5,5,Male,52,42532,1,3,2,1
+Panera,No,No,Yes,No,0,5,4,4,4,5,4,4,5,3,4,5,4,Female,45,66648,1,4,1,2
+Panera,Yes,No,No,No,2,5,5,4,3,5,5,2,5,5,5,5,3,Male,29,80871,2,2,1,1
+Panera,No,No,No,No,2,,,,,,,,,,,,,Male,23,18254,2,2,1,1
+Panera,No,No,No,No,2,4,4,5,5,5,4,3,4,3,4,4,3,Male,49,54651,1,4,2,2
+Panera,Yes,No,No,No,0,,,,,,,,,,,,,,,,,,,
+Panera,No,No,Yes,No,0,4,4,4,3,5,4,3,3,4,4,4,3,Female,50,42254,3,2,4,3
+Panera,Yes,No,No,No,0,5,4,4,4,4,4,4,4,3,3,4,3,Female,67,32272,2,2,1,2
+Panera,Yes,No,No,No,0,5,5,5,5,5,4,5,5,3,5,5,4,Male,40,31310,1,4,2,1
+Panera,No,Yes,No,No,0,5,5,5,4,5,5,4,3,3,4,3,4,Male,29,20196,2,2,2,3
+Panera,Yes,No,No,No,0,5,4,2,2,5,4,4,3,2,4,,4,Male,49,71493,3,4,2,3
+Panera,No,No,Yes,No,0,4,4,4,5,5,4,4,4,2,5,5,4,Female,33,80682,5,3,2,1
+Pizza express,Yes,No,No,No,0,5,5,5,5,5,4,2,2,3,5,4,3,Male,49,39729,2,3,1,2
+Pizza Hut,Yes,No,No,No,1,4,5,5,4,5,3,3,4,2,5,5,4,Female,39,45758,2,3,2,2
+Starbucks,No,No,No,No,0,4,4,5,5,5,4,3,2,4,5,4,3,Female,51,58698,1,3,2,2
+Starbucks,No,No,Yes,No,0,4,4,5,4,5,4,3,4,2,4,4,3,Male,31,27458,2,3,2,2
+Subway,No,No,Yes,No,2,5,4,5,4,5,4,4,4,4,5,5,4,Female,33,37626,3,2,1,2
+Subway,No,No,Yes,Yes,0,5,4,5,4,4,4,5,5,5,5,5,5,Female,30,24737,3,2,2,2
+Subway,No,Yes,No,No,0,5,5,5,4,5,5,4,3,3,4,3,4,Male,29,20196,2,2,2,3
+Subway,No,Yes,No,No,2,4,4,4,4,5,4,1,4,3,5,5,3,Male,43,76311,2,4,2,2
+Subway,Yes,No,No,No,1,3,5,5,4,5,4,2,3,3,3,3,2,Male,39,46736,1,4,1,1
+Subway,Yes,No,No,No,0,5,5,5,5,5,4,2,3,4,3,3,3,Male,57,82425,2,4,2,1
+Subway,Yes,No,No,No,0,4,4,5,5,5,4,4,3,3,5,4,4,Male,21,28482,1,4,1,1
+Subway,No,Yes,No,No,0,5,4,5,5,5,5,5,5,3,5,5,3,Female,42,29442,1,4,2,1
+Subway,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,41,25062,1,2,1,1
+Subway,No,No,Yes,No,0,4,4,4,3,5,4,2,4,3,4,5,4,Male,39,61332,2,2,1,2
+Subway,Yes,No,No,No,2,4,5,5,5,5,4,3,4,5,5,5,5,Male,33,31344,1,2,1,2
+Subway,No,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Female,55,58912,2,2,2,2
+Subway,No,No,Yes,No,0,5,5,5,5,5,4,3,3,2,5,3,4,Male,52,56406,2,1,2,1
+Subway,No,No,No,No,0,1,1,4,4,5,4,2,3,3,3,4,3,Male,41,53955,3,4,3,3
+Subway,No,No,Yes,No,0,5,4,4,5,5,4,3,3,3,4,3,4,Male,35,11046,1,2,1,1
+Subway,Yes,No,No,No,0,5,5,5,5,5,5,4,4,2,3,3,3,Male,34,44454,1,4,2,1
+Subway,No,No,Yes,No,0,5,4,5,5,5,4,4,4,4,5,5,5,Male,33,86277,2,3,2,2
+Subway,No,No,No,No,1,5,4,5,5,5,4,3,3,4,5,5,4,Male,24,58416,1,4,2,1
+Subway,Yes,No,No,No,1,4,4,5,5,5,4,3,3,1,3,3,3,Male,39,15629,2,2,1,1
+Subway,No,No,Yes,No,0,5,4,5,4,,4,4,3,4,4,5,4,Male,52,85353,1,3,2,2
+Subway,Yes,No,No,No,0,5,4,4,3,4,2,5,3,4,4,4,3,Male,69,83778,3,4,2,2
+Subway,No,No,Yes,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,48,27646,1,4,1,1
+Subway,Yes,No,No,No,0,4,4,4,4,5,4,4,3,3,4,4,3,Male,32,86649,2,3,3,3
+Subway,No,Yes,No,No,4,4,5,4,5,4,3,3,4,2,4,4,3,Male,50,26040,1,2,1,1
+Subway,No,No,Yes,No,0,4,5,5,5,5,4,4,4,3,4,4,3,Male,49,49774,3,2,2,1
+Subway,No,No,Yes,No,0,5,5,5,5,5,4,3,3,3,4,4,4,,,,,,,
+Subway,No,No,Yes,No,0,3,4,4,4,5,4,3,5,4,4,5,5,Female,51,25063,3,4,2,2
+Subway,No,No,Yes,No,0,5,5,4,4,5,4,5,4,5,5,5,5,Female,66,16627,2,2,3,2
+Subway,Yes,No,No,No,0,5,5,5,5,5,5,3,4,3,4,4,4,Male,29,35972,1,4,1,1
+Subway,Yes,No,No,No,0,4,3,5,5,5,4,3,3,2,5,4,4,Male,33,35714,1,3,2,1
+Subway,No,No,Yes,No,0,4,4,4,4,4,4,3,3,3,3,3,3,Male,49,28872,2,2,2,2
+Subway,Yes,No,No,No,0,4,3,5,4,5,3,4,3,2,5,5,4,Male,29,11059,2,3,2,3
+Subway,Yes,No,No,No,1,4,5,5,4,5,3,3,4,2,5,5,4,Female,39,45758,2,3,2,2
+Subway,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,33,23146,1,4,1,2
+Subway,Yes,No,No,No,0,5,5,5,5,5,5,4,4,3,5,3,3,Male,44,30408,2,2,2,1
+Subway,No,No,No,No,4,,,,,,,,,,,,,Male,21,17330,1,2,1,2
+Subway,No,No,Yes,No,0,4,4,4,5,5,4,3,2,3,4,3,3,Male,45,88962,1,3,2,1
+Subway,Yes,No,No,No,0,5,5,5,5,5,3,4,4,5,5,5,4,Male,39,19460,2,3,2,2
+Subway,Yes,Yes,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Male,32,24397,1,4,2,2
+Subway,Yes,No,No,No,0,4,4,4,4,5,4,5,4,3,4,5,4,Male,33,27529,2,4,1,1
+Taco Bell,Yes,No,No,No,0,4,3,5,4,5,3,4,3,2,5,5,4,Male,29,11059,2,3,2,3
+The Market,Yes,No,No,No,0,4,4,4,5,5,4,4,5,4,5,5,5,Male,33,44358,2,2,2,2
+Wendy's,Yes,No,No,No,0,5,5,5,5,5,5,5,5,5,5,5,5,Female,23,20712,1,3,1,1
+Wendy's,Yes,No,No,No,0,5,4,5,4,5,4,5,4,3,4,4,3,Male,55,39912,2,4,2,2
